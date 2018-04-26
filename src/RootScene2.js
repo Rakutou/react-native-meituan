@@ -59,10 +59,10 @@ const MineStack = StackNavigator({
 
 const TabBarController = TabNavigator(
     {
-        Home: {screen: HomeStack},
-        Nearby: {screen: NearbyStack},
-        Order: {screen: OrderStack},
-        Mine: {screen: MineStack}
+        Home: { screen: HomeStack },
+        Nearby: { screen: NearbyStack },
+        Order: { screen: OrderStack },
+        Mine: { screen: MineStack }
     },
     {
         navigationOptions: ({ navigation }) => ({

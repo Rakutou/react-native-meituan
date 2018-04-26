@@ -7,7 +7,7 @@
  */
 
 
-import React, {PureComponent} from 'react'
+import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 import {View, Text, StyleSheet, TouchableOpacity, ViewPropTypes} from 'react-native'
 
