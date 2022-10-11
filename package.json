@@ -10,7 +10,7 @@
     "axios": "^0.18.0",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-native": "^0.54.2",
+    "react-native": "^0.70.2",
     "react-native-nav": "^2.0.2",
     "react-native-page-control": "^1.1.1",
     "react-native-refresh-list-view": "^1.0.7",
